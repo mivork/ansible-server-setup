@@ -1,0 +1,11 @@
+timezone: Asia/Tokyo
+
+deploy_user: deploy
+
+base_packages:
+  - vim
+  - curl
+  - git
+  - htop
+  - ufw
+  - unattended-upgrades
